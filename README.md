@@ -5,7 +5,7 @@ Used React with hooks and context API for the client side.
 
 Used Nodejs with Express and MongoDB for the server side (REST API).
 
-The password are hased using bcryptjs.
+The passwords are hased using bcryptjs.
 
 Used JWT for the user auth.
 
