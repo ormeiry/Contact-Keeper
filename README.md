@@ -1,13 +1,15 @@
 # Contact-Keeper
-Full stack web app
+## Full stack web app
 
-Used React with hooks and context API for the client side.
-
-Used Nodejs with Express and MongoDB for the server side (REST API).
-
-The passwords are hased using bcryptjs.
-
-Used JWT for the user auth.
-
+### what can you do?
 The user can register, add his own contacts, edit, delete and filter them.
 
+### Frontend:
+- React with hooks.
+- Context API.
+
+### backend:
+- Nodejs with Express
+- Bcryptjs
+- JWT
+- MongoDB.
