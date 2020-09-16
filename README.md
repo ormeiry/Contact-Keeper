@@ -13,3 +13,5 @@ The user can register, add his own contacts, edit, delete and filter them.
 - Bcryptjs
 - JWT
 - MongoDB.
+
+<img src="contactKeeper.png" alt="contactKeeper" width="700"/>
